@@ -1,9 +1,6 @@
-import 'package:adaptive_theme/adaptive_theme.dart';
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/scheduler.dart';
-import 'package:flutter_animate/flutter_animate.dart';
-import 'package:flutter_feather_icons/flutter_feather_icons.dart';
+
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:resume/router/auto_route.gr.dart';
 import 'package:resume/util/show_snack_bars.dart';
